@@ -7,6 +7,6 @@
         "codebox": ">=1.0.0-alpha"
     },
     "packageDependencies": {
-        "statusbar": "CodeboxIDE/package-statusbar"
+        "statusbar": "tianmaying/package-statusbar"
     }
 }
